@@ -59,6 +59,8 @@ Change DNS to Quad9 and Cloudfare
 
 Windows Activation
 
+I use KMS38 from https://gitlab.com/massgrave/microsoft-activation-scripts
+
 Change device name
 
 Windows Update
