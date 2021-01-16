@@ -70,11 +70,14 @@ Enable Bitlocker
 Recommended programs
 
 	-7zip
-	-Brave
+	-Firefox
 	-VLC
-	-Notepad++
 	-Sublime text
 	-KeePass
 	-Git
 
 Autoruns
+
+PrivacyTools - https://www.privacytools.io/
+
+
